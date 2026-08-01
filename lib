@@ -1,7 +1,6 @@
-import 'package:flutter/material.dart';
-import 'core/constants/app_routes.dart';
-import 'core/theme/app_theme.dart';
-import 'presentation/routes/app_router.dart';
+import 'package:nityans_flutter_campus_app/core/constants/app_routes.dart';
+import 'package:nityans_flutter_campus_app/core/theme/app_theme.dart';
+import 'package:nityans_flutter_campus_app/presentation/routes/app_router.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
